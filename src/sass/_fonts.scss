@@ -1,0 +1,9 @@
+// Пример подключения шрифта font-display: swap важно указать
+@font-face {
+    font-family: "ALSRubl";
+    src: url(../fonts/ALSRubl.woff) format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap
+}
+

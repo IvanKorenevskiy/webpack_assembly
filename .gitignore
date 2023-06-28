@@ -1,0 +1,16 @@
+workspace.code-workspace
+
+node_modules
+__MACOSX
+.Saved
+_arc
+.vscode
+.publish
+.DS_Store
+*.log
+*.sublime-*
+*.rar
+*.zip
+.idea
+ex_files
+Thumbs.db
